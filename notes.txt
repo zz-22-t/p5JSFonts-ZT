@@ -1,0 +1,4 @@
+Fonts can be download from https://fonts.google.com/selection
+
+p5.js Fonts Reference: https://p5js.org/reference/#/p5/loadFont
+
